@@ -2,7 +2,7 @@
 SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
-<h1>move to <a href="https://gitlab.com/suyu2/suyu">https://gitlab.com/suyu2/suyu</a></h1>
+<h1>moved to <a href="https://gitlab.com/suyu2/suyu">https://gitlab.com/suyu2/suyu</a></h1>
 
 To prevent microsoft from taking it down
 
